@@ -117,5 +117,5 @@ After running `php artisan store:data`, the project creates these staff accounts
 
 ## Authors
 
-- Christian Earl Juico - Backend Developer
+- Christian Earl Juico - Backend Developer - @christianj26
 - Jayson Pascual - Frontend Developer
