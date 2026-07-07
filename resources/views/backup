@@ -1,0 +1,34 @@
+<!-- <div class="box white">
+                    <div class="login-container">
+                
+                        <form action="/login"  method="POST" >
+                        @csrf
+                        <div class="HR-LOGO">
+                        <h2>Welcome Back!</h2>
+                        <br><br><br>
+                        </div>
+                        <div>
+                            <input class="username" type="text" name="username" placeholder="Username" required autocomplete="off">
+                        </div>
+                        <div>
+                            <input class="password" type="password" name="password" placeholder="Password" required autocomplete="off">
+                        <p hidden><a href="" class="forgotpass">Fogot Password?</a></p>
+                        </div>
+                        <div class="group">
+    
+                        @if ($errors->any())
+                        <div class="error">{{ $errors->first() }}</div>
+                        @endif
+                        <br><br>
+                        <div class="button-box">
+                            <div>
+                                <button>Clear</button>
+                            </div>
+                            <div>
+                                <button type="submit">Login</button>
+                            </div>
+                        </div>
+                        </form>
+                    </div>  
+                                    
+                </div> -->
