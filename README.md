@@ -4,7 +4,7 @@ HR Management System is a Laravel-based web application for managing employee re
 
 This project was created by:
 
-- Christian Earl Juico - Backend
+- Christian Earl Juico - Backend - [@christianj26](https://github.com/christianj26)
 - Jayson Pascual - Frontend
 
 This project is not 100% perfect because it is our first web application project. It was built as a learning project and may still need improvements, bug fixes, and additional polishing.
